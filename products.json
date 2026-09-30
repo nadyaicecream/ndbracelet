@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Lucky Star",
+    "price": 18000,
+    "cat": "cute",
+    "emoji": "☆",
+    "bg": "#e7ddd4"
+  },
+  {
+    "id": 2,
+    "name": "Tiny Daisy",
+    "price": 22000,
+    "cat": "nature",
+    "emoji": "✿",
+    "bg": "#e3eadf"
+  },
+  {
+    "id": 3,
+    "name": "Love Note",
+    "price": 20000,
+    "cat": "cute",
+    "emoji": "♡",
+    "bg": "#ead9d8"
+  },
+  {
+    "id": 4,
+    "name": "Your Initial",
+    "price": 16000,
+    "cat": "letter",
+    "emoji": "N",
+    "bg": "#e4dfd8"
+  },
+  {
+    "id": 5,
+    "name": "Little Cloud",
+    "price": 19000,
+    "cat": "cute",
+    "emoji": "☁",
+    "bg": "#dfe7e9"
+  },
+  {
+    "id": 6,
+    "name": "Sun Bloom",
+    "price": 21000,
+    "cat": "nature",
+    "emoji": "☼",
+    "bg": "#ece3cf"
+  },
+  {
+    "id": 7,
+    "name": "Moon Girl",
+    "price": 23000,
+    "cat": "cute",
+    "emoji": "☾",
+    "bg": "#e2dfe7"
+  },
+  {
+    "id": 8,
+    "name": "Wild Leaf",
+    "price": 20000,
+    "cat": "nature",
+    "emoji": "❧",
+    "bg": "#dfe8dc"
+  }
+]
